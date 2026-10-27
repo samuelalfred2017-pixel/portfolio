@@ -1,0 +1,866 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>OSMOSIS COMPUTER SERVICES PLUG | Typesetting, Graphic Design, Networking & Projects | Jalingo & Zing LGA</title>
+  
+  <!-- SEO Meta Tags -->
+  <meta name="description" content="Osmosis Computer Services Plug is your trusted ICT and academic solutions hub in Jalingo and Zing LGA, Taraba State. Services include Type Setting, Graphic Design, Networking, Project Topics and verified research materials. WhatsApp: 09031726988.">
+  <meta name="keywords" content="Osmosis Computer Services Plug, Type Setting Jalingo, Graphic Design Zing, Networking Taraba, Project Topics and Materials, Academic Research Jalingo, 09031726988">
+  <meta name="author" content="Osmosis Computer Services Plug">
+  <meta name="robots" content="index, follow">
+
+  <!-- Open Graph / WhatsApp Preview Meta -->
+  <meta property="og:title" content="OSMOSIS COMPUTER SERVICES PLUG - Jalingo & Zing LGA">
+  <meta property="og:description" content="Expert Type Setting, Graphic Design, Networking, and Academic Project Topics & Materials. Contact us on WhatsApp: 09031726988.">
+  <meta property="og:type" content="website">
+  <meta property="og:image" content="assets/images/hero-banner.jpg">
+
+  <!-- Stylesheet -->
+  <link rel="stylesheet" href="Index.CSS">
+
+  <!-- Favicon / App Icon fallback -->
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>💻</text></svg>">
+</head>
+<body>
+
+  <!-- ===================================================================
+       TOP ANNOUNCEMENT BAR
+  =================================================================== -->
+  <div class="top-bar" id="topAnnouncement">
+    <div class="container top-bar-content">
+      <span>📍 Proudly Serving <strong>Jalingo LGA</strong> &amp; <strong>Zing LGA</strong>, Taraba State</span>
+      <span>•</span>
+      <span>💬 WhatsApp Hotline: <a href="https://wa.me/2349031726988" target="_blank" rel="noopener noreferrer">09031726988</a></span>
+      <span>•</span>
+      <span>⚡ Fast Turnaround &amp; Digital Delivery Available</span>
+    </div>
+  </div>
+
+  <!-- ===================================================================
+       HEADER & NAVIGATION
+  =================================================================== -->
+  <header class="navbar" id="mainHeader">
+    <div class="container nav-container">
+      <!-- Brand Logo -->
+      <a href="#hero" class="brand-logo" id="brandLogoLink">
+        <div class="brand-icon-box">
+          <svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+            <rect x="2" y="3" width="20" height="14" rx="2" ry="2"></rect>
+            <line x1="8" y1="21" x2="16" y2="21"></line>
+            <line x1="12" y1="17" x2="12" y2="21"></line>
+          </svg>
+        </div>
+        <div class="brand-text">
+          <h1>OSMOSIS <span class="gradient-text">COMPUTER SERVICES</span></h1>
+          <span>The Digital &amp; Academic Plug</span>
+        </div>
+      </a>
+
+      <!-- Desktop Nav Links -->
+      <nav aria-label="Main Navigation">
+        <ul class="nav-links" id="navLinks">
+          <li><a href="#hero" class="nav-link active">Home</a></li>
+          <li><a href="#services" class="nav-link">Our Services</a></li>
+          <li><a href="#inquiryTool" class="nav-link">Instant WhatsApp Quote</a></li>
+          <li><a href="#academicCorner" class="nav-link">Project Topics</a></li>
+          <li><a href="#locations" class="nav-link">Locations</a></li>
+          <li><a href="#whyUs" class="nav-link">Why Choose Us</a></li>
+          <li><a href="#faq" class="nav-link">FAQ</a></li>
+          <li><a href="#contact" class="nav-link">Contact</a></li>
+        </ul>
+      </nav>
+
+      <!-- Action Buttons -->
+      <div class="nav-cta-group">
+        <a href="tel:09031726988" class="nav-phone-link" id="navPhoneBtn" title="Click to call or copy">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path>
+          </svg>
+          <span>09031726988</span>
+        </a>
+        <a href="https://wa.me/2349031726988?text=Hello%20Osmosis%20Computer%20Services%20Plug!%20I%20am%20interested%20in%20your%20services." 
+           target="_blank" rel="noopener noreferrer" class="btn btn-whatsapp btn-sm" id="navWhatsAppBtn">
+          <span>Chat on WhatsApp</span>
+        </a>
+        <button class="mobile-toggle" id="mobileMenuToggle" aria-label="Toggle navigation menu">
+          ☰
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <!-- ===================================================================
+       HERO SECTION
+  =================================================================== -->
+  <main>
+    <section class="hero-section" id="hero">
+      <div class="container hero-grid">
+        <!-- Hero Text Content -->
+        <div class="hero-content">
+          <div>
+            <span class="badge-pill">
+              <span class="pulse-indicator"></span>
+              #1 Digital &amp; Academic Center in Taraba
+            </span>
+          </div>
+
+          <h1 class="hero-title">
+            Fast, Reliable &amp; Professional <br>
+            <span class="gradient-text">Computer &amp; Academic</span> Solutions
+          </h1>
+
+          <p class="hero-desc">
+            Welcome to <strong>OSMOSIS COMPUTER SERVICES PLUG</strong>. We provide state-of-the-art 
+            <strong>Type Setting</strong>, creative <strong>Graphic Design</strong>, high-performance <strong>Networking</strong>, 
+            and complete <strong>Project Topics &amp; Research Materials</strong> across <strong>Jalingo LGA</strong> and <strong>Zing LGA</strong>.
+          </p>
+
+          <div class="hero-actions">
+            <a href="https://wa.me/2349031726988?text=Hello%20Osmosis%20Plug!%20I%20need%20urgent%20service%20in%20Jalingo%20/%20Zing." 
+               target="_blank" rel="noopener noreferrer" class="btn btn-whatsapp" id="heroWhatsAppBtn">
+              <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
+                <path d="M.057 24l1.687-6.163c-1.041-1.804-1.588-3.849-1.587-5.946.003-6.556 5.338-11.891 11.893-11.891 3.181.001 6.167 1.24 8.413 3.488 2.245 2.248 3.481 5.236 3.48 8.414-.003 6.557-5.338 11.892-11.893 11.892-1.99-.001-3.951-.5-5.688-1.448l-6.305 1.654zm6.597-3.807c1.676.995 3.276 1.591 5.392 1.592 5.448 0 9.886-4.434 9.889-9.885.002-5.462-4.415-9.89-9.881-9.892-5.452 0-9.887 4.434-9.889 9.884-.001 2.225.651 3.891 1.746 5.634l-.999 3.648 3.742-.981zm11.387-5.464c-.074-.124-.272-.198-.57-.347-.297-.149-1.758-.868-2.031-.967-.272-.099-.47-.149-.669.149-.198.297-.768.967-.941 1.165-.173.198-.347.223-.644.074-.297-.149-1.255-.462-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.297-.347.446-.521.151-.172.2-.296.3-.495.099-.198.05-.372-.025-.521-.075-.148-.669-1.611-.916-2.206-.242-.579-.487-.501-.669-.51l-.57-.01c-.198 0-.52.074-.792.372s-1.04 1.016-1.04 2.479 1.065 2.876 1.213 3.074c.149.198 2.095 3.2 5.076 4.487.709.306 1.263.489 1.694.626.712.226 1.36.194 1.872.118.571-.085 1.758-.719 2.006-1.413.248-.695.248-1.29.173-1.414z"/>
+              </svg>
+              <span>WhatsApp Us: 09031726988</span>
+            </a>
+            <a href="#services" class="btn btn-secondary" id="heroServicesBtn">
+              <span>View Services &amp; Pricing</span>
+            </a>
+          </div>
+
+          <!-- Trust Badges -->
+          <div class="hero-trust-badges">
+            <div class="trust-item">
+              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"></polyline></svg>
+              <span>Error-Free Typesetting</span>
+            </div>
+            <div class="trust-item">
+              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"></polyline></svg>
+              <span>Standard Academic Materials</span>
+            </div>
+            <div class="trust-item">
+              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"></polyline></svg>
+              <span>Same-Day Digital Delivery</span>
+            </div>
+          </div>
+        </div>
+
+        <!-- Hero Visual Showcase -->
+        <div class="hero-visual">
+          <div class="hero-image-wrapper">
+            <img src="assets/images/hero-banner.jpg" alt="Osmosis Computer Services Plug - Typesetting, Graphics, Networking and Research Hub" loading="eager" width="800" height="450">
+          </div>
+
+          <!-- Floating Badges -->
+          <div class="hero-floating-card card-top">
+            <div class="floating-icon-wrap cyan">
+              <span>💻</span>
+            </div>
+            <div class="floating-meta">
+              <strong>Jalingo &amp; Zing Hub</strong>
+              <span>Active In-Person &amp; Online</span>
+            </div>
+          </div>
+
+          <div class="hero-floating-card card-bottom">
+            <div class="floating-icon-wrap green">
+              <span>⚡</span>
+            </div>
+            <div class="floating-meta">
+              <strong>100% Satisfaction</strong>
+              <span>Fast WhatsApp Support</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ===================================================================
+         INTERACTIVE WHATSAPP INQUIRY GENERATOR TOOL
+    =================================================================== -->
+    <section class="inquiry-tool-section" id="inquiryTool">
+      <div class="container">
+        <div class="inquiry-box">
+          <div class="text-center" style="margin-bottom: 2rem;">
+            <span class="badge-pill badge-green">Instant Quote &amp; Booking</span>
+            <h2 class="section-title" style="margin-top: 0.5rem;">Generate Your WhatsApp Order</h2>
+            <p class="section-subtitle">
+              Fill in your requirement below. We will format a direct WhatsApp message ready for instant submission to <strong>09031726988</strong>!
+            </p>
+          </div>
+
+          <div class="inquiry-grid">
+            <!-- Form Inputs -->
+            <form class="inquiry-form" id="orderGeneratorForm" onsubmit="return false;">
+              <div class="form-group">
+                <label for="inquiryService">Select Desired Service *</label>
+                <select id="inquiryService" class="form-control">
+                  <option value="Type Setting & Document Processing" selected>Type Setting &amp; Document Processing</option>
+                  <option value="Graphic Design & Branding">Graphic Design &amp; Digital Branding</option>
+                  <option value="Computer Networking & IT Support">Computer Networking &amp; IT Support</option>
+                  <option value="Project Topics & Academic Materials">Project Topics &amp; Research Materials</option>
+                  <option value="Data Analysis (SPSS / Excel)">Data Analysis (SPSS / Excel)</option>
+                  <option value="Computer Repairs & General ICT">Computer Repairs &amp; General ICT</option>
+                </select>
+              </div>
+
+              <div class="form-group">
+                <label for="inquiryLocation">Your Current Location *</label>
+                <select id="inquiryLocation" class="form-control">
+                  <option value="Jalingo LGA (Taraba State)" selected>Jalingo LGA (Taraba State)</option>
+                  <option value="Zing LGA (Taraba State)">Zing LGA (Taraba State)</option>
+                  <option value="Other Town in Taraba / Remote">Other Town in Taraba / Remote Online</option>
+                </select>
+              </div>
+
+              <div class="form-group">
+                <label for="inquiryUrgency">Delivery Speed / Urgency</label>
+                <select id="inquiryUrgency" class="form-control">
+                  <option value="Normal Standard (1-3 Days)">Normal Standard (1-3 Days)</option>
+                  <option value="Urgent (Today / Express)">⚡ Urgent (Today / Express)</option>
+                  <option value="Within 48 Hours">Within 48 Hours</option>
+                </select>
+              </div>
+
+              <div class="form-group">
+                <label for="inquiryName">Your Name / Title</label>
+                <input type="text" id="inquiryName" class="form-control" placeholder="e.g. Harisu, Student or Business Owner">
+              </div>
+
+              <div class="form-group">
+                <label for="inquiryDetails">Brief Details / Topic / Quantity</label>
+                <textarea id="inquiryDetails" class="form-control" rows="3" placeholder="e.g. 45 pages project formatting, or flyer design for tech event, or LAN cable setup for office..."></textarea>
+              </div>
+            </form>
+
+            <!-- Live Message Preview Box -->
+            <div class="inquiry-preview-card">
+              <div class="preview-header">
+                <div class="preview-badge">
+                  <span class="pulse-indicator"></span>
+                  <span>WhatsApp Live Message Preview</span>
+                </div>
+                <span style="font-size: 0.8rem; color: var(--text-dim);">To: 09031726988</span>
+              </div>
+
+              <div class="whatsapp-mockup-bubble" id="waPreviewText">
+                <!-- Dynamically populated by Index.js -->
+              </div>
+
+              <a href="https://wa.me/2349031726988" id="waSubmitBtn" target="_blank" rel="noopener noreferrer" class="btn btn-whatsapp btn-block">
+                <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
+                  <path d="M.057 24l1.687-6.163c-1.041-1.804-1.588-3.849-1.587-5.946.003-6.556 5.338-11.891 11.893-11.891 3.181.001 6.167 1.24 8.413 3.488 2.245 2.248 3.481 5.236 3.48 8.414-.003 6.557-5.338 11.892-11.893 11.892-1.99-.001-3.951-.5-5.688-1.448l-6.305 1.654zm6.597-3.807c1.676.995 3.276 1.591 5.392 1.592 5.448 0 9.886-4.434 9.889-9.885.002-5.462-4.415-9.89-9.881-9.892-5.452 0-9.887 4.434-9.889 9.884-.001 2.225.651 3.891 1.746 5.634l-.999 3.648 3.742-.981zm11.387-5.464c-.074-.124-.272-.198-.57-.347-.297-.149-1.758-.868-2.031-.967-.272-.099-.47-.149-.669.149-.198.297-.768.967-.941 1.165-.173.198-.347.223-.644.074-.297-.149-1.255-.462-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.297-.347.446-.521.151-.172.2-.296.3-.495.099-.198.05-.372-.025-.521-.075-.148-.669-1.611-.916-2.206-.242-.579-.487-.501-.669-.51l-.57-.01c-.198 0-.52.074-.792.372s-1.04 1.016-1.04 2.479 1.065 2.876 1.213 3.074c.149.198 2.095 3.2 5.076 4.487.709.306 1.263.489 1.694.626.712.226 1.36.194 1.872.118.571-.085 1.758-.719 2.006-1.413.248-.695.248-1.29.173-1.414z"/>
+                </svg>
+                <span>Send Direct Inquiry to WhatsApp (09031726988)</span>
+              </a>
+              <p style="font-size: 0.78rem; text-align: center; color: var(--text-dim);">
+                🔒 Direct encrypted connection to Osmosis Computer Services Plug. Instant response guaranteed.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ===================================================================
+         SERVICES SECTION (4 CORE SERVICES)
+    =================================================================== -->
+    <section class="services-section" id="services">
+      <div class="container">
+        <div class="section-header text-center">
+          <span class="badge-pill">What We Do Best</span>
+          <h2 class="section-title">Our Premium Services</h2>
+          <p class="section-subtitle">
+            Tailored digital and academic solutions designed to meet the highest standards of universities, colleges, corporate bodies, and private individuals.
+          </p>
+        </div>
+
+        <div class="services-grid">
+          <!-- Service 1: Typesetting -->
+          <article class="service-card" id="service-typesetting">
+            <div class="service-icon icon-typeset">
+              <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <polyline points="4 7 4 4 20 4 20 7"></polyline>
+                <line x1="9" y1="20" x2="15" y2="20"></line>
+                <line x1="12" y1="4" x2="12" y2="20"></line>
+              </svg>
+            </div>
+            <h3>Type Setting &amp; Document Processing</h3>
+            <p>
+              High-speed, 100% accurate typing and academic formatting in line with institutional guidelines (APA, Harvard, MLA).
+            </p>
+            <ul class="service-features">
+              <li>
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                <span>Project, Thesis &amp; Dissertation Typing</span>
+              </li>
+              <li>
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                <span>Professional CVs, Resumes &amp; Proposals</span>
+              </li>
+              <li>
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                <span>Spreadsheets, Tables &amp; Math Equations</span>
+              </li>
+              <li>
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                <span>Proofreading, Formatting &amp; Spiral Binding prep</span>
+              </li>
+            </ul>
+            <div class="card-footer">
+              <span class="price-hint">Fast &amp; Affordable Rates</span>
+              <a href="https://wa.me/2349031726988?text=Hello%20Osmosis%20Plug,%20I%20need%20Type%20Setting%20services%20in%20Jalingo%20/%20Zing." 
+                 target="_blank" rel="noopener noreferrer" class="btn btn-whatsapp btn-sm" id="btn-order-typesetting">
+                Book on WhatsApp
+              </a>
+            </div>
+          </article>
+
+          <!-- Service 2: Graphic Design -->
+          <article class="service-card" id="service-graphics">
+            <div class="service-icon icon-graphics">
+              <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <circle cx="12" cy="12" r="10"></circle>
+                <path d="m4.93 4.93 4.24 4.24"></path>
+                <path d="m14.83 9.17 4.24-4.24"></path>
+                <path d="m14.83 14.83 4.24 4.24"></path>
+                <path d="m9.17 14.83-4.24 4.24"></path>
+                <circle cx="12" cy="12" r="4"></circle>
+              </svg>
+            </div>
+            <h3>Graphic Design &amp; Digital Branding</h3>
+            <p>
+              Stunning visual designs that captivate your audience and position your business or event for massive success.
+            </p>
+            <ul class="service-features">
+              <li>
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                <span>Eye-Catching Flyers &amp; Posters</span>
+              </li>
+              <li>
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                <span>Company Logos &amp; Full Brand Identity</span>
+              </li>
+              <li>
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                <span>Wedding &amp; Event Invitation Cards</span>
+              </li>
+              <li>
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                <span>Banners, ID Cards &amp; Social Media Creatives</span>
+              </li>
+            </ul>
+            <div class="card-footer">
+              <span class="price-hint">HD Print-Ready Files</span>
+              <a href="https://wa.me/2349031726988?text=Hello%20Osmosis%20Plug,%20I%20need%20Graphic%20Design%20services%20(Flyer/Logo/Banner)." 
+                 target="_blank" rel="noopener noreferrer" class="btn btn-whatsapp btn-sm" id="btn-order-graphics">
+                Design on WhatsApp
+              </a>
+            </div>
+          </article>
+
+          <!-- Service 3: Networking -->
+          <article class="service-card" id="service-networking">
+            <div class="service-icon icon-network">
+              <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <rect x="2" y="2" width="6" height="6" rx="1"></rect>
+                <rect x="16" y="2" width="6" height="6" rx="1"></rect>
+                <rect x="9" y="16" width="6" height="6" rx="1"></rect>
+                <path d="M5 8v3a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1V8"></path>
+                <path d="M12 12v4"></path>
+              </svg>
+            </div>
+            <h3>Computer Networking &amp; IT Support</h3>
+            <p>
+              Professional wired and wireless network installation, router configuration, cyber cafe setups, and troubleshooting.
+            </p>
+            <ul class="service-features">
+              <li>
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                <span>LAN Cabling &amp; Structured Wiring</span>
+              </li>
+              <li>
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                <span>Wi-Fi Router &amp; Access Point Configuration</span>
+              </li>
+              <li>
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                <span>Cyber Cafe &amp; Office Workstation Networking</span>
+              </li>
+              <li>
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                <span>Network Security &amp; Fault Diagnosis</span>
+              </li>
+            </ul>
+            <div class="card-footer">
+              <span class="price-hint">On-Site in Jalingo &amp; Zing</span>
+              <a href="https://wa.me/2349031726988?text=Hello%20Osmosis%20Plug,%20I%20need%20Computer%20Networking%20assistance%20at%20my%20office/cafe." 
+                 target="_blank" rel="noopener noreferrer" class="btn btn-whatsapp btn-sm" id="btn-order-networking">
+                Contact Engineer
+              </a>
+            </div>
+          </article>
+
+          <!-- Service 4: Project Topics & Materials -->
+          <article class="service-card" id="service-projects">
+            <div class="service-icon icon-project">
+              <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"></path>
+                <path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"></path>
+              </svg>
+            </div>
+            <h3>Project Topics &amp; Research Materials</h3>
+            <p>
+              Comprehensive academic research assistance for NCE, ND, HND, B.Sc., PGD, and M.Sc. students across diverse faculties.
+            </p>
+            <ul class="service-features">
+              <li>
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                <span>Approved Project Topics &amp; Proposals</span>
+              </li>
+              <li>
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                <span>Complete Chapters 1 to 5 Materials</span>
+              </li>
+              <li>
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                <span>Data Analysis (SPSS, Excel) &amp; Questionnaires</span>
+              </li>
+              <li>
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                <span>Plagiarism-Free &amp; Verified Citations</span>
+              </li>
+            </ul>
+            <div class="card-footer">
+              <span class="price-hint">Instant PDF / Word Files</span>
+              <a href="https://wa.me/2349031726988?text=Hello%20Osmosis%20Plug,%20I%20need%20Project%20Topics%20and%20Research%20Materials." 
+                 target="_blank" rel="noopener noreferrer" class="btn btn-whatsapp btn-sm" id="btn-order-projects">
+                Get Materials
+              </a>
+            </div>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <!-- ===================================================================
+         ACADEMIC CORNER: PROJECT TOPICS EXPLORER
+    =================================================================== -->
+    <section class="academic-section" id="academicCorner">
+      <div class="container">
+        <div class="academic-wrapper">
+          <div class="text-center" style="margin-bottom: 2rem;">
+            <span class="badge-pill">Academic Research Vault</span>
+            <h2 class="section-title">Explore Project Topics &amp; Materials</h2>
+            <p class="section-subtitle">
+              Browse approved topics or search for your department. Need a custom topic or full Chapters 1-5 write-up? Contact our research desk on WhatsApp at <strong>09031726988</strong>.
+            </p>
+          </div>
+
+          <!-- Department Filter Buttons -->
+          <div class="topics-filter-bar">
+            <button class="filter-btn active" data-filter="all">All Departments</button>
+            <button class="filter-btn" data-filter="computer-science">Computer Science &amp; IT</button>
+            <button class="filter-btn" data-filter="education">Education &amp; Teaching</button>
+            <button class="filter-btn" data-filter="social-sciences">Social &amp; Management Sciences</button>
+            <button class="filter-btn" data-filter="natural-sciences">Natural &amp; Applied Sciences</button>
+            <button class="filter-btn" data-filter="arts-humanities">Arts &amp; Mass Comm</button>
+          </div>
+
+          <!-- Search Bar -->
+          <div class="topics-search-wrap">
+            <span class="topics-search-icon">🔍</span>
+            <input type="text" id="topicsSearchInput" class="topics-search-input" placeholder="Search topic by keyword, department, or course code...">
+          </div>
+
+          <!-- Dynamic Topics Grid -->
+          <div class="topics-list-grid" id="topicsGrid">
+            <!-- Dynamically populated by Index.js -->
+          </div>
+
+          <div style="margin-top: 2.5rem; text-align: center;">
+            <a href="https://wa.me/2349031726988?text=Hello%20Osmosis%20Plug,%20I%20have%20a%20custom%20project%20topic%20that%20needs%20research%20materials%20and%20analysis." 
+               target="_blank" rel="noopener noreferrer" class="btn btn-primary" id="btnCustomTopicReq">
+              <span>Have a Custom Topic? Chat with our Research Desk</span>
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M5 12h14"></path><path d="m12 5 7 7-7 7"></path></svg>
+            </a>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ===================================================================
+         LOCATIONS: JALINGO LGA & ZING LGA
+    =================================================================== -->
+    <section class="locations-section" id="locations">
+      <div class="container">
+        <div class="section-header text-center">
+          <span class="badge-pill badge-location">Physical &amp; Remote Coverage</span>
+          <h2 class="section-title">Serving Jalingo LGA &amp; Zing LGA</h2>
+          <p class="section-subtitle">
+            Whether you are on campus, at work, or at home in Jalingo or Zing, our prompt delivery ensures you never miss a deadline.
+          </p>
+        </div>
+
+        <div class="locations-grid">
+          <!-- Jalingo Hub -->
+          <div class="location-card" id="locationJalingo">
+            <span class="badge-pill badge-location location-badge-top">State Capital Hub</span>
+            <div class="location-icon-header">
+              <div class="loc-icon">🏛️</div>
+              <div>
+                <h3>Jalingo LGA</h3>
+                <span style="color: var(--text-muted); font-size: 0.9rem;">Metropolitan Digital Center</span>
+              </div>
+            </div>
+            <p style="color: var(--text-muted); font-size: 0.95rem;">
+              Serving Taraba State University (TSU) students, Taraba State Polytechnic, ministries, corporate offices, cyber cafes, and businesses across Jalingo metropolis.
+            </p>
+            <ul class="location-details-list">
+              <li>
+                <span>📍</span>
+                <span><strong>Coverage:</strong> Jalingo Central, Magami, Mayo-Dassa, Mile 6, Sabon Gari, Road Safety &amp; environs.</span>
+              </li>
+              <li>
+                <span>⚡</span>
+                <span><strong>Services:</strong> High-speed typesetting, branding, graphic prints, network cabling, urgent project defense prep.</span>
+              </li>
+              <li>
+                <span>🛵</span>
+                <span><strong>Dispatch:</strong> Fast dispatch delivery across Jalingo + instant digital delivery via WhatsApp and Email.</span>
+              </li>
+            </ul>
+            <a href="https://wa.me/2349031726988?text=Hello%20Osmosis%20Plug!%20I%20am%20in%20Jalingo%20LGA%20and%20need%20your%20services." 
+               target="_blank" rel="noopener noreferrer" class="btn btn-secondary btn-block">
+              <span>Order from Jalingo</span>
+            </a>
+          </div>
+
+          <!-- Zing Hub -->
+          <div class="location-card" id="locationZing">
+            <span class="badge-pill badge-green location-badge-top">Academic &amp; College Hub</span>
+            <div class="location-icon-header">
+              <div class="loc-icon">🎓</div>
+              <div>
+                <h3>Zing LGA</h3>
+                <span style="color: var(--text-muted); font-size: 0.9rem;">Education &amp; Community Center</span>
+              </div>
+            </div>
+            <p style="color: var(--text-muted); font-size: 0.95rem;">
+              Strategic support for College of Education Zing (COE Zing) students, academic staff, local government secretariat, schools, and entrepreneurs in Zing LGA.
+            </p>
+            <ul class="location-details-list">
+              <li>
+                <span>📍</span>
+                <span><strong>Coverage:</strong> COE Zing Campus, Zing Town, Monkin, Yakoko &amp; adjoining communities.</span>
+              </li>
+              <li>
+                <span>⚡</span>
+                <span><strong>Specialized In:</strong> NCE &amp; Degree project topics, lesson plans, research questionnaire design, seminar slides.</span>
+              </li>
+              <li>
+                <span>🛵</span>
+                <span><strong>Pickup &amp; Delivery:</strong> Flexible local pickup or immediate WhatsApp document transfer (PDF, Word, JPEG).</span>
+              </li>
+            </ul>
+            <a href="https://wa.me/2349031726988?text=Hello%20Osmosis%20Plug!%20I%20am%20in%20Zing%20LGA%20and%20need%20your%20services." 
+               target="_blank" rel="noopener noreferrer" class="btn btn-secondary btn-block">
+              <span>Order from Zing</span>
+            </a>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ===================================================================
+         WHY CHOOSE OSMOSIS
+    =================================================================== -->
+    <section class="why-us-section" id="whyUs">
+      <div class="container">
+        <div class="section-header text-center">
+          <span class="badge-pill">The Osmosis Advantage</span>
+          <h2 class="section-title">Why Choose Osmosis Computer Services Plug?</h2>
+          <p class="section-subtitle">
+            We blend technical proficiency, academic integrity, and speed to give you the smoothest experience in Taraba State.
+          </p>
+        </div>
+
+        <div class="why-grid">
+          <div class="why-feature">
+            <div class="why-icon">⚡</div>
+            <h4>Rapid Turnaround</h4>
+            <p>Urgent submission tomorrow morning? We handle express overnight typesetting and graphic jobs without compromising quality.</p>
+          </div>
+
+          <div class="why-feature">
+            <div class="why-icon">🎯</div>
+            <h4>Academic Standard</h4>
+            <p>Our project materials follow authentic university formatting guidelines with credible academic references and data accuracy.</p>
+          </div>
+
+          <div class="why-feature">
+            <div class="why-icon">💬</div>
+            <h4>100% WhatsApp Friendly</h4>
+            <p>Send your work, voice note, or draft over WhatsApp on <strong>09031726988</strong> and receive finished files straight to your phone.</p>
+          </div>
+
+          <div class="why-feature">
+            <div class="why-icon">💰</div>
+            <h4>Student-Friendly Pricing</h4>
+            <p>Transparent, fair, and budget-friendly pricing tailored for students, teachers, and growing local businesses.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ===================================================================
+         TESTIMONIALS
+    =================================================================== -->
+    <section class="testimonials-section" id="testimonials">
+      <div class="container">
+        <div class="section-header text-center">
+          <span class="badge-pill">Client Satisfaction</span>
+          <h2 class="section-title">What Our Clients in Jalingo &amp; Zing Say</h2>
+          <p class="section-subtitle">
+            Hear from students and business managers who rely on Osmosis Computer Services Plug daily.
+          </p>
+        </div>
+
+        <div class="testimonials-grid">
+          <div class="testi-card">
+            <div class="stars">★★★★★</div>
+            <p class="testi-quote">
+              "Osmosis Plug saved my final year project defense at TSU Jalingo! The typesetting was 100% formatted to school guidelines and the SPSS data analysis was well interpreted. Received it cleanly on WhatsApp."
+            </p>
+            <div class="testi-user">
+              <div class="user-avatar">I</div>
+              <div class="user-meta">
+                <strong>Ibrahim S.</strong>
+                <span>TSU Jalingo Final Year Student</span>
+              </div>
+            </div>
+          </div>
+
+          <div class="testi-card">
+            <div class="stars">★★★★★</div>
+            <p class="testi-quote">
+              "The flyers and banner they designed for our youth conference in Zing were super crisp and modern. Everyone was asking who did the graphics. Very fast response on 09031726988!"
+            </p>
+            <div class="testi-user">
+              <div class="user-avatar">P</div>
+              <div class="user-meta">
+                <strong>Patience D.</strong>
+                <span>Event Coordinator, Zing LGA</span>
+              </div>
+            </div>
+          </div>
+
+          <div class="testi-card">
+            <div class="stars">★★★★★</div>
+            <p class="testi-quote">
+              "They helped configure our computer laboratory network and Wi-Fi router. Our cyber setup is now stable with zero downtime. Osmosis Computer Services Plug is truly the plug for tech!"
+            </p>
+            <div class="testi-user">
+              <div class="user-avatar">M</div>
+              <div class="user-meta">
+                <strong>Musa Bello</strong>
+                <span>Business Center Manager, Jalingo</span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ===================================================================
+         FAQ ACCORDION
+    =================================================================== -->
+    <section class="faq-section" id="faq">
+      <div class="container">
+        <div class="section-header text-center">
+          <span class="badge-pill">Got Questions?</span>
+          <h2 class="section-title">Frequently Asked Questions</h2>
+          <p class="section-subtitle">
+            Everything you need to know about placing an order, payment, and receiving your materials.
+          </p>
+        </div>
+
+        <div class="faq-container">
+          <div class="faq-item active">
+            <button class="faq-question">
+              <span>How do I order or send my document via WhatsApp?</span>
+              <span class="faq-icon">▼</span>
+            </button>
+            <div class="faq-answer">
+              Simply message us on WhatsApp at <strong>09031726988</strong> or use our interactive WhatsApp Quote Generator above. You can send pictures of handwritten notes, Word documents, PDFs, or audio voice notes explaining what you need.
+            </div>
+          </div>
+
+          <div class="faq-item">
+            <button class="faq-question">
+              <span>Can I get service if I am located outside Jalingo or Zing?</span>
+              <span class="faq-icon">▼</span>
+            </button>
+            <div class="faq-answer">
+              Yes! While our primary physical hubs are in Jalingo LGA and Zing LGA, our digital services (Typesetting, Graphic Design, and Project Materials) are delivered digitally nationwide via WhatsApp, Google Drive, or Email in PDF, Docx, or high-res graphic formats.
+            </div>
+          </div>
+
+          <div class="faq-item">
+            <button class="faq-question">
+              <span>Are your project materials original and approved?</span>
+              <span class="faq-icon">▼</span>
+            </button>
+            <div class="faq-answer">
+              Yes, all our project materials (Chapters 1 to 5) adhere to strict research standards, with verified literature citations, reliable methodology, and accurate data analysis. We also provide customized guidance for defense preparation.
+            </div>
+          </div>
+
+          <div class="faq-item">
+            <button class="faq-question">
+              <span>What is the turnaround time for urgent typesetting or graphics?</span>
+              <span class="faq-icon">▼</span>
+            </button>
+            <div class="faq-answer">
+              For urgent jobs, we offer express same-day turnaround (within 2 to 6 hours depending on page count). Standard projects are delivered within 24 to 48 hours.
+            </div>
+          </div>
+
+          <div class="faq-item">
+            <button class="faq-question">
+              <span>Do you provide on-site computer networking in Jalingo and Zing?</span>
+              <span class="faq-icon">▼</span>
+            </button>
+            <div class="faq-answer">
+              Yes, our IT technicians provide physical on-site visits for LAN cabling, Wi-Fi router setup, switch installation, and troubleshooting in offices, schools, and business centers across Jalingo LGA and Zing LGA.
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ===================================================================
+         CTA BANNER
+    =================================================================== -->
+    <section class="cta-banner-section">
+      <div class="container">
+        <div class="cta-banner-card">
+          <h2>Ready to Get Started Today?</h2>
+          <p>
+            Whether it's an urgent 50-page document typing, a premium company logo, office network setup, or research topics with materials, we are ready to assist you right now!
+          </p>
+          <div class="cta-btn-group">
+            <a href="https://wa.me/2349031726988?text=Hello%20Osmosis%20Plug!%20I%20am%20ready%20to%20order%20now." 
+               target="_blank" rel="noopener noreferrer" class="btn btn-whatsapp" id="ctaBottomWaBtn">
+              <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
+                <path d="M.057 24l1.687-6.163c-1.041-1.804-1.588-3.849-1.587-5.946.003-6.556 5.338-11.891 11.893-11.891 3.181.001 6.167 1.24 8.413 3.488 2.245 2.248 3.481 5.236 3.48 8.414-.003 6.557-5.338 11.892-11.893 11.892-1.99-.001-3.951-.5-5.688-1.448l-6.305 1.654zm6.597-3.807c1.676.995 3.276 1.591 5.392 1.592 5.448 0 9.886-4.434 9.889-9.885.002-5.462-4.415-9.89-9.881-9.892-5.452 0-9.887 4.434-9.889 9.884-.001 2.225.651 3.891 1.746 5.634l-.999 3.648 3.742-.981zm11.387-5.464c-.074-.124-.272-.198-.57-.347-.297-.149-1.758-.868-2.031-.967-.272-.099-.47-.149-.669.149-.198.297-.768.967-.941 1.165-.173.198-.347.223-.644.074-.297-.149-1.255-.462-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.297-.347.446-.521.151-.172.2-.296.3-.495.099-.198.05-.372-.025-.521-.075-.148-.669-1.611-.916-2.206-.242-.579-.487-.501-.669-.51l-.57-.01c-.198 0-.52.074-.792.372s-1.04 1.016-1.04 2.479 1.065 2.876 1.213 3.074c.149.198 2.095 3.2 5.076 4.487.709.306 1.263.489 1.694.626.712.226 1.36.194 1.872.118.571-.085 1.758-.719 2.006-1.413.248-.695.248-1.29.173-1.414z"/>
+              </svg>
+              <span>Message Us on WhatsApp (09031726988)</span>
+            </a>
+            <a href="tel:09031726988" class="btn btn-secondary copy-phone-btn" id="ctaCallBtn">
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path></svg>
+              <span>Call 09031726988</span>
+            </a>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <!-- ===================================================================
+       FOOTER
+  =================================================================== -->
+  <footer class="footer" id="contact">
+    <div class="container footer-grid">
+      <div class="footer-brand">
+        <h2>OSMOSIS COMPUTER SERVICES PLUG</h2>
+        <p>
+          Your premier technology, creative branding, and academic research partner in Jalingo &amp; Zing LGA, Taraba State, Nigeria.
+        </p>
+        <span class="badge-pill badge-green">Open Monday – Saturday: 8:00 AM – 7:00 PM</span>
+      </div>
+
+      <div class="footer-column">
+        <h4>Our Core Services</h4>
+        <ul class="footer-links">
+          <li><a href="#service-typesetting">Type Setting &amp; Formatting</a></li>
+          <li><a href="#service-graphics">Graphic Design &amp; Branding</a></li>
+          <li><a href="#service-networking">Computer Networking</a></li>
+          <li><a href="#service-projects">Project Topics &amp; Materials</a></li>
+          <li><a href="#service-projects">Data Analysis &amp; Questionnaires</a></li>
+        </ul>
+      </div>
+
+      <div class="footer-column">
+        <h4>Operational Hubs</h4>
+        <ul class="footer-links">
+          <li><a href="#locationJalingo">Jalingo LGA (Metropolis Hub)</a></li>
+          <li><a href="#locationZing">Zing LGA (College Hub)</a></li>
+          <li><a href="#academicCorner">Taraba State University (TSU)</a></li>
+          <li><a href="#academicCorner">College of Education Zing</a></li>
+          <li><a href="#inquiryTool">Remote Online Delivery</a></li>
+        </ul>
+      </div>
+
+      <div class="footer-column">
+        <h4>Contact &amp; Support</h4>
+        <ul class="contact-info-list">
+          <li>
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path></svg>
+            <div>
+              <strong>Phone &amp; WhatsApp:</strong><br>
+              <a href="https://wa.me/2349031726988" target="_blank" rel="noopener noreferrer" style="color: #38bdf8;">09031726988</a>
+            </div>
+          </li>
+          <li>
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
+            <div>
+              <strong>Location:</strong><br>
+              Jalingo LGA &amp; Zing LGA, Taraba State, Nigeria
+            </div>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="container footer-bottom">
+      <div>
+        &copy; <span id="currentYear">2026</span> <strong>OSMOSIS COMPUTER SERVICES PLUG</strong>. All rights reserved.
+      </div>
+      <div>
+        Designed for High Performance &amp; Seamless WhatsApp Integration
+      </div>
+    </div>
+  </footer>
+
+  <!-- ===================================================================
+       FLOATING WHATSAPP BUTTON (FAB) & BACK TO TOP
+  =================================================================== -->
+  <div class="floating-wa-container" id="floatingWaContainer">
+    <a href="https://wa.me/2349031726988?text=Hello%20Osmosis%20Plug!%20I%20have%20an%20inquiry%20from%20your%20website." 
+       target="_blank" rel="noopener noreferrer" class="wa-bubble-prompt" id="waBubblePrompt">
+      <span>💬 Need urgent typing or project topics? Chat now!</span>
+    </a>
+    <a href="https://wa.me/2349031726988?text=Hello%20Osmosis%20Plug!%20I%20need%20urgent%20assistance." 
+       target="_blank" rel="noopener noreferrer" class="wa-fab" id="floatingWaFab" aria-label="Chat on WhatsApp">
+      <div class="wa-fab-pulse"></div>
+      <svg width="32" height="32" viewBox="0 0 24 24" fill="currentColor">
+        <path d="M.057 24l1.687-6.163c-1.041-1.804-1.588-3.849-1.587-5.946.003-6.556 5.338-11.891 11.893-11.891 3.181.001 6.167 1.24 8.413 3.488 2.245 2.248 3.481 5.236 3.48 8.414-.003 6.557-5.338 11.892-11.893 11.892-1.99-.001-3.951-.5-5.688-1.448l-6.305 1.654zm6.597-3.807c1.676.995 3.276 1.591 5.392 1.592 5.448 0 9.886-4.434 9.889-9.885.002-5.462-4.415-9.89-9.881-9.892-5.452 0-9.887 4.434-9.889 9.884-.001 2.225.651 3.891 1.746 5.634l-.999 3.648 3.742-.981zm11.387-5.464c-.074-.124-.272-.198-.57-.347-.297-.149-1.758-.868-2.031-.967-.272-.099-.47-.149-.669.149-.198.297-.768.967-.941 1.165-.173.198-.347.223-.644.074-.297-.149-1.255-.462-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.297-.347.446-.521.151-.172.2-.296.3-.495.099-.198.05-.372-.025-.521-.075-.148-.669-1.611-.916-2.206-.242-.579-.487-.501-.669-.51l-.57-.01c-.198 0-.52.074-.792.372s-1.04 1.016-1.04 2.479 1.065 2.876 1.213 3.074c.149.198 2.095 3.2 5.076 4.487.709.306 1.263.489 1.694.626.712.226 1.36.194 1.872.118.571-.085 1.758-.719 2.006-1.413.248-.695.248-1.29.173-1.414z"/>
+      </svg>
+    </a>
+  </div>
+
+  <!-- Back to Top Button -->
+  <button class="back-to-top" id="backToTopBtn" aria-label="Back to top">
+    <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="18 15 12 9 6 15"></polyline></svg>
+  </button>
+
+  <!-- Toast Notification -->
+  <div class="toast-notice" id="toastNotice"></div>
+
+  <!-- Main JavaScript File -->
+  <script src="Index.js"></script>
+</body>
+</html>
